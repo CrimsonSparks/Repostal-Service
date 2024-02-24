@@ -1,0 +1,9 @@
+{
+	"post_method" : "pdf",
+	"webhook_url" : "",
+	"output_folder" : "output\\",
+	"sender" : "",
+	"webhookMsgLimit" : 2000,
+	"notification_role" : "",
+	"wkhtmltopdf" : ""
+}

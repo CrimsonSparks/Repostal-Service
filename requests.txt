@@ -1,0 +1,6 @@
+feature requests
+------------------
+
+- multiple substack newsletters to be read from email
+- method switches: post pdf or post split text. 
+- specify multiple possible destinations for posts. 
